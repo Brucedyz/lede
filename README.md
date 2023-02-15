@@ -9,7 +9,6 @@
 3. Rockchip RK3568 预编译固件发布 Release 下载更新地址 (包括 H68K )：<https://github.com/coolsnowwolf/lede/releases/tag/20220716>
 
 <a href ="https://item.taobao.com/item.htm?spm=a230r.1.14.11.4bb55247rdHEAP&id=702787603594&ns=1&abbucket=17#detail
-"><img src="https://github.com/coolsnowwolf/lede/blob/master/doc/h68k.jpg?raw=true" width=600  /></a>
 
 ## 注意
 
